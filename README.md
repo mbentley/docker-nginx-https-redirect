@@ -1,6 +1,8 @@
 mbentley/nginx-https-redirect
 =============================
 
+*Note*: the Dockerfile for this repo has been moved to [mbentley/docker-nginx](https://github.com/mbentley/docker-nginx)
+
 docker image for redirecting traffic to https using nginx
 based off of mbentley/nginx:latest
 
